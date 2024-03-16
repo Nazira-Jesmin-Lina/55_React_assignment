@@ -1,0 +1,16 @@
+.container {
+    margin-top: 20px;
+  }
+  
+  .card {
+    margin-bottom: 20px;
+  }
+  
+  .card-body {
+    padding: 20px;
+  }
+  
+  .btn-add-task {
+    margin-bottom: 20px;
+  }
+  

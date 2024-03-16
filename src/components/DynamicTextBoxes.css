@@ -1,0 +1,42 @@
+.dynamic-textboxes {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  .textbox-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .textbox {
+    flex: 1;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    margin-top: 10px;
+  }
+  
+  .delete-button {
+    margin-left: 10px;
+    padding: 6px 10px;
+    background-color: #dc3545;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .delete-button:hover {
+    background-color: #bd2130;
+  }
+  
+  .total {
+    margin-top: 20px;
+    font-weight: bold;
+  }
+  
